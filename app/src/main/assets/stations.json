@@ -1,0 +1,167 @@
+[{
+        "id": "0",
+        "game": {
+            "id": "0",
+            "gameName": "GTA San Andreas",
+            "universe": "3D"
+        },
+        "name": "Radio Los Santos",
+        "genre": "Hip Hop",
+        "tags": [{
+                "tagName": "Hip Hop"
+            },
+            {
+                "tagName": "Rap"
+            },
+            {
+                "tagName": "West Coast"
+            }
+        ],
+        "picLink": "https://static.wikigta.org/en/images/5/5f/Radio_Los_Santos_logo.png",
+        "msTotalLength": "4178173",
+        "songs": [{
+                "id": "0",
+                "prevSongId": "15",
+                "nextSongId": "1",
+                "artist": "Ice Cube",
+                "title": "Today Was A Good Day",
+                "msOffset": "0",
+                "link": "youtube id or direct https goes here"
+            },
+            {
+                "id": "1",
+                "prevSongId": "0",
+                "nextSongId": "2",
+                "artist": "Ice Cube",
+                "title": "Check Yo Self",
+                "msOffset": "214626",
+                "link": "youtube id or direct https goes here"
+            },
+            {
+                "id": "2",
+                "prevSongId": "1",
+                "nextSongId": "3",
+                "artist": "Dr.Dre (feat. Snoop Dogg)",
+                "title": "Deep Cover",
+                "msOffset": "434115",
+                "link": "youtube id or direct https goes here"
+            },
+            {
+                "id": "3",
+                "prevSongId": "2",
+                "nextSongId": "4",
+                "artist": "2Pac (feat. Pogo)",
+                "title": "I Don't Give a fuck",
+                "msOffset": "722217",
+                "link": "youtube id or direct https goes here"
+            },
+            {
+                "id": "4",
+                "prevSongId": "3",
+                "nextSongId": "5",
+                "artist": "Da Lench Mob",
+                "title": "Guerillas in tha Mist",
+                "msOffset": "1042449",
+                "link": "youtube id or direct https goes here"
+            },
+            {
+                "id": "5",
+                "prevSongId": "4",
+                "nextSongId": "6",
+                "artist": "Dr.Dre (feat. Snoop Dogg)",
+                "title": "Nuthin' But A 'G' Thang",
+                "msOffset": "1303439",
+                "link": "youtube id or direct https goes here"
+            },
+            {
+                "id": "6",
+                "prevSongId": "5",
+                "nextSongId": "7",
+                "artist": "Dr.Dre (feat. Snoop Dogg)",
+                "title": "Fuck Wit Dre Day",
+                "msOffset": "1527311",
+                "link": "youtube id or direct https goes here"
+            },
+            {
+                "id": "7",
+                "prevSongId": "6",
+                "nextSongId": "8",
+                "artist": "Cypress Hill",
+                "title": "How I Could Just Kill A Man",
+                "msOffset": "1840090",
+                "link": "youtube id or direct https goes here"
+            },
+            {
+                "id": "8",
+                "prevSongId": "7",
+                "nextSongId": "9",
+                "artist": "Compton's Most Wanted",
+                "title": "Hood Took Me Under",
+                "msOffset": "2076013",
+                "link": "youtube id or direct https goes here"
+            },
+            {
+                "id": "9",
+                "prevSongId": "8",
+                "nextSongId": "10",
+                "artist": "Kid Frost",
+                "title": "La Raza",
+                "msOffset": "2366527",
+                "link": "youtube id or direct https goes here"
+            },
+            {
+                "id": "10",
+                "prevSongId": "9",
+                "nextSongId": "11",
+                "artist": "Above The Law",
+                "title": "Murder Rap",
+                "msOffset": "2616873",
+                "link": "youtube id or direct https goes here"
+            },
+            {
+                "id": "11",
+                "prevSongId": "10",
+                "nextSongId": "12",
+                "artist": "N.W.A.",
+                "title": "Express Yourself",
+                "msOffset": "2863343",
+                "link": "youtube id or direct https goes here"
+            },
+            {
+                "id": "12",
+                "prevSongId": "11",
+                "nextSongId": "13",
+                "artist": "Too $hort",
+                "title": "The Ghetto",
+                "msOffset": "3175006",
+                "link": "youtube id or direct https goes here"
+            },
+            {
+                "id": "13",
+                "prevSongId": "12",
+                "nextSongId": "14",
+                "artist": "The D.O.C.",
+                "title": "It's Funky Enough",
+                "msOffset": "3395920",
+                "link": "youtube id or direct https goes here"
+            },
+            {
+                "id": "14",
+                "prevSongId": "13",
+                "nextSongId": "15",
+                "artist": "Eazy-E",
+                "title": "Eazy-Er Said Than Dunn",
+                "msOffset": "3675824",
+                "link": "youtube id or direct https goes here"
+            },
+            {
+                "id": "15",
+                "prevSongId": "14",
+                "nextSongId": "0",
+                "artist": "N.W.A.",
+                "title": "Alwayz into Somethin'",
+                "msOffset": "3908617",
+                "link": "youtube id or direct https goes here"
+            }
+        ]
+    }]
